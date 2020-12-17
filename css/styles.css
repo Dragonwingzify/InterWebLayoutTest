@@ -1,0 +1,28 @@
+#title {
+  background-color: #ff4c68;
+}
+
+/* NEW PARENT SELECTOR */
+.container-of-container {
+	height: 100vh;
+	width: 100%;
+}
+
+.container{
+	height: 100vh;
+	width: 100%;
+overflow:hidden;
+}
+.row{
+height:25%;
+clear: both;
+}
+.col-lg-12{
+height:90%;
+clear:both;
+}
+
+.col-md-6{
+width:50%;
+clear:both;
+}
